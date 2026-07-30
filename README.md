@@ -1,10 +1,19 @@
-<h1 align="center">Hi, I'm IMTIAZ 👋</h1>
+<h1 align="center">Hi, I'm MD 👋</h1>
 <h3 align="center">Software Engineering Student | Game Developer</h3>
 
-- 🎮 Working in **game development**
-- 🛠️ Skills: Game Development, 3D Commercial, 3D Web Development
-- ⚙️ Tools: Unreal Engine, Blender, Godot
-- 💻 Languages: C++, Python, Java
+### 🚀 About Me
+- 🎓 Software Engineering student at **Metropolitan University**
+- 🎮 Currently working in **game development**
+- 🎬 Also into 3D commercial and 3D web development work
+
+### 🛠️ Skills
+Game Development · 3D Commercial · 3D Web Development
+
+### ⚙️ Tools
+Unreal Engine · Blender · Godot
+
+### 💻 Languages
+C++ · Python · Java
 
 <p align="left">
   <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
@@ -16,5 +25,5 @@
 </p>
 
 ### 📫 Connect
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:imtiazabu001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
