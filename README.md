@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm MD 👋</h1>
+<h1 align="center">Hi, I'm IMTIAZ 👋</h1>
 <h3 align="center">Software Engineering Student | Game Developer</h3>
 
 ### 🚀 About Me
